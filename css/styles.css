@@ -1,0 +1,14 @@
+body{margin-bottom: 500px;}
+
+#header{
+    background: linear-gradient(90deg,lightblue,orange,pink);
+    color:white;
+    padding:8px;
+}
+#header h2{
+    font-size:22px;
+}
+hr{
+    background-color: beige;
+    height: 3px;
+}
